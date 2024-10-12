@@ -1,6 +1,6 @@
-# remote_theme: pages-themes/cayman@v0.2.0
+remote_theme: pages-themes/cayman@v0.2.0
 
-remote_theme: jeffreytse/jekyll-theme-yat@1.6.4
+# remote_theme: jeffreytse/jekyll-theme-yat@1.6.4
 
 # plugins:
 #   - jekyll-feed
