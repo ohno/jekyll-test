@@ -2,5 +2,8 @@ remote_theme: jeffreytse/jekyll-theme-yat
 
 plugins:
   - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+  - jekyll-paginate 
   - jekyll-remote-theme
   - github-pages
